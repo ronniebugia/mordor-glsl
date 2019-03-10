@@ -7,7 +7,7 @@ Some of this code was originally part of a computer graphics course specifically
 However, the GLSL shaders and most of the JavaScript are written by me. The tower of Mordor 3d model comes from https://www.thingiverse.com/thing:2434288. 
 
 ## To Run the App
-Clone this repository to whereever you want.
+Clone this repository to where ever you want.
 
 ```
 git clone https://github.com/ronniebugia/mordor-glsl.git
