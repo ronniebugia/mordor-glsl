@@ -3,7 +3,8 @@ Three.js and GLSL rendering of the tower of Barad Dur in Mordor from The Lord of
 
 ## About this Repository
 
-Some of this code was originally part of a computer graphics course specifically the HTML code and small portions of the JavaScript. However, the GLSL shaders and most of the JavaScript are written by me. The tower of Mordor 3d model comes from https://www.thingiverse.com/thing:2434288. 
+Some of this code was originally part of a computer graphics course specifically the HTML code and Three.js camera controls. 
+However, the GLSL shaders and most of the JavaScript are written by me. The tower of Mordor 3d model comes from https://www.thingiverse.com/thing:2434288. 
 
 ## To Run the App
 Clone this repository to whereever you want.
